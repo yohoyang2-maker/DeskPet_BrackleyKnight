@@ -1,0 +1,11 @@
+[signal arg="roll"]
+knight: 你好啊，早上好中午好晚上好。
+knight: 你猜怎么着，我拿到了基础骑士资格证！
+[signal arg="idle"]
+knight: 我不好说我的感觉，其实我志不在此。
+knight: 但这是目前我唯一拿的出手的成就了。
+[signal arg="hurt"]
+knight: 我似乎离我的梦想越来越远了。
+[signal arg="idle"]
+knight: 算了，你觉得明天吃啥？
+[wait time="1.0"]

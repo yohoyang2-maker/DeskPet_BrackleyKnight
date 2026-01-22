@@ -1,0 +1,2 @@
+[signal arg="idle"]
+knight: 现在温度是{WeatherTemp}

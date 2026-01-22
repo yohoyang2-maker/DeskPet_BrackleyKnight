@@ -1,0 +1,10 @@
+[signal arg="idle"]
+knight: 你好呀，你这里真不错，我要住在这个看起来堆满了无用的图标的地方！
+knight: 你知道吗？虽然我是一个骑士，但我最大的愿望是加入教会
+[signal arg="hurt"]
+knight: 但是命运总是这么刻薄，它没收我关于思考的才能
+[signal arg="idle"]
+knight: 或者说我跟教会那帮头脑派没有任何相似之处
+knight: 于是我被稀里糊涂的发配到骑士这边
+knight: 人生真烂不是吗，我觉得我说的够多了
+[wait time="1.0"]

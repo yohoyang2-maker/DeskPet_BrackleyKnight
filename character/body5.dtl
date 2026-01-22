@@ -1,0 +1,8 @@
+[signal arg="idle"]
+knight: 谁也不会在乎你的人生
+knight: 也许我会在乎
+[signal arg="hurt"]
+knight: 我们可以互相在意吗
+[signal arg="idle"]
+knight: 希望你记得，我明天会想吃烤热狗
+[wait time="1.0"]

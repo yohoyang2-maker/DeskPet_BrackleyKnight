@@ -1,0 +1,7 @@
+[signal arg="idle"]
+knight: 其实我应该问问你的名字
+knight: 等我拥有更多功能的话，我会考虑记下来
+[signal arg="roll"]
+knight: 是的，我当然知道我自己是被一创作出来的虚无产物
+knight: 你不也是的吗？
+[wait time="1.0"]

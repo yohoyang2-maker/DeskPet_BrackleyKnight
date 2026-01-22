@@ -1,0 +1,5 @@
+knight: 刚刚睡着了
+[signal arg="roll"]
+knight: 好吧，我回来了
+[signal arg="idle"]
+knight: 哈哈，伟大的骑士女王，回归
